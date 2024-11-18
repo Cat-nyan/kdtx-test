@@ -1,0 +1,32 @@
+[
+  {
+    "name": "测试开发提升课01",
+    "subject": "6",
+    "price": 899,
+    "applicablePerson": "2",
+    "info": "",
+    "status":200,
+    "code": 200,
+    "msg": "成功"
+  },
+  {
+    "name": "测试开发提升课02",
+    "subject": "6",
+    "price": 899,
+    "applicablePerson": "2",
+    "info": "测试开发提升课02",
+    "status":200,
+    "code": 200,
+    "msg": "成功"
+  },
+  {
+    "name": "测试开发提升课02",
+    "subject": "",
+    "price": 899,
+    "applicablePerson": "2",
+    "info": "",
+    "status":200,
+    "code": 500,
+    "msg": "失败"
+  }
+]
